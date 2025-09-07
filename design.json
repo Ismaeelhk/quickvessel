@@ -1,0 +1,85 @@
+{
+"design_system_name": "Modern Professional & Dynamic",
+"style_profile": {
+"mood": "Professional, innovative, and aspirational",
+"keywords": [
+"Clean",
+"Modern",
+"Dynamic",
+"Abstract",
+"Sophisticated",
+"High-contrast"
+],
+"visual_theme": "Combines a dark, high-contrast background with vibrant, fluid, and geometric abstract graphics. The look is corporate but with a creative and forward-thinking edge."
+},
+"color_palette": {
+"primary": {
+"name": "Dark Navy",
+"description": "The dominant background color for most sections."
+},
+"secondary": {
+"name": "Mid-to-Bright Blue",
+"description": "Used for hero sections and sometimes as an overlay or background for specific content blocks."
+},
+"text": {
+"name": "White & Light Gray",
+"description": "Used for primary and secondary text to provide strong contrast against the dark backgrounds."
+},
+"accents": {
+"name": "Vibrant Spectrum",
+"description": "A wide range of bright, abstract colors (pinks, purples, oranges, blues) used exclusively within the dynamic graphic elements."
+}
+},
+"typography": {
+"headline_font": {
+"family": "Serif",
+"usage": "Large, bold headlines in hero sections and as main section titles.",
+"weight": "Bold"
+},
+"body_font": {
+"family": "Sans-serif",
+"usage": "Standard text for paragraphs, subheadings, navigation, and component descriptions.",
+"weight": "Regular to light"
+}
+},
+"layout_and_structure": {
+"grid_system": {
+"type": "Fluid Grid",
+"description": "Content is organized into distinct sections with consistent horizontal padding. It utilizes both two-column (text and image) and three-column layouts for content cards."
+},
+"hierarchy": {
+"description": "A clear visual hierarchy with prominent hero sections, followed by content-rich sections with cards and text blocks."
+},
+"common_patterns": [
+"Full-width hero sections with a headline and subtext.",
+"Two-column layouts with a text block on the left and a large visual on the right.",
+"Three-column grid for showcasing multiple related content items (cards)."
+],
+"spacing": {
+"description": "Generous vertical and horizontal spacing to create a clean, uncluttered feel."
+}
+},
+"component_library": {
+"card": {
+"description": "A container for content with a visual element, a title, and descriptive text.",
+"visuals": {
+"border": "Subtle border or outline.",
+"hover_state": "A light blue or white border outline appears on hover, giving a 'selected' effect."
+}
+},
+"button": {
+"description": "A simple call-to-action button.",
+"visuals": {
+"shape": "Rectangular with a slight border-radius.",
+"icon": "An arrow icon pointing right is used inside the button or next to a text link."
+}
+},
+"text_link": {
+"description": "Links within body text or titles.",
+"visuals": {
+"icon": "Accompanied by a smaller, right-pointing arrow icon."
+}
+}
+}
+}
+
