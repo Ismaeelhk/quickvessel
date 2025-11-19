@@ -166,7 +166,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="text-xl font-semibold text-white mb-2 font-serif">Phone</h3>
-                                        <p className="text-gray-300 font-light">+ 1 (256) 295-0024 • <a href="wa.me/12562950024"><u>Chat on Whatsapp ↗</u></a></p>
+                                        <p className="text-gray-300 font-light">+ 1 (256) 295-0024 • <a href="https://wa.me/12562950024"><u>Chat on Whatsapp ↗</u></a></p>
                                     </div>
                                 </div>
 
