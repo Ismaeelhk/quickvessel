@@ -192,7 +192,7 @@ export default function About() {
                                     className="rounded-full mx-auto group-hover:scale-105 transition-transform duration-300"
                                 />
                             </div>
-                            <h3 className="text-2xl font-semibold text-white mb-2 font-serif">Emily Rodriguez</h3>
+                            <h3 className="text-2xl font-semibold text-white mb-2 font-serif">Kimberly Billingsley</h3>
                             <p className="text-blue-400 mb-4">Chief Operations Officer</p>
                             <p className="text-gray-300 font-light">Specialist in operational excellence and client relationship management.</p>
                         </div>
