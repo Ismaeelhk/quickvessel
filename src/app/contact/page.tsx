@@ -154,8 +154,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="text-xl font-semibold text-white mb-2 font-serif">Email</h3>
-                                        <p className="text-gray-300 font-light">contact@quickvessel.com</p>
-                                        <p className="text-gray-300 font-light">support@quickvessel.com</p>
+                                        <p className="text-gray-300 font-light">quickvesselvercel@gmail.com</p>
                                     </div>
                                 </div>
 
@@ -167,8 +166,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <h3 className="text-xl font-semibold text-white mb-2 font-serif">Phone</h3>
-                                        <p className="text-gray-300 font-light">+1 (555) 123-4567</p>
-                                        <p className="text-gray-300 font-light">+1 (555) 987-6543</p>
+                                        <p className="text-gray-300 font-light">+ 1 (256) 295-0024 • <a href="wa.me/12562950024">Chat on Whatsapp</a></p>
                                     </div>
                                 </div>
 
